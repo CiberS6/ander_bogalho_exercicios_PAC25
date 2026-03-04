@@ -96,9 +96,9 @@ else:
 total = compra - desconto
 
 print(f"Nome: {nome}")
-print(f"Compra: {compra:.2f}€")
-print(f"Desconto: {desconto:.2f}€")
-print(f"Total a pagar: {total:.2f}€")
+print(f"Compra: {compra}€")
+print(f"Desconto: {desconto}€")
+print(f"Total a pagar: {total}€")
 
 #exercício 7
 nota1 = float(input("Insira a primeira nota: "))
@@ -106,7 +106,7 @@ nota2 = float(input("Insira a segunda nota: "))
 nota3 = float(input("Insira a terceira nota: "))
 
 media = (nota1 * 2 + nota2 * 3 + nota3 * 5) / 10
-print(f"Média: {media:.1f}")
+print(f"Média: {media}")
 
 if media >= 6:
     print("Aprovado")
@@ -132,7 +132,7 @@ for nota in notas:
     if nota >= media:
         acima_media = acima_media + 1
 
-print(f"Média: {media:.1f}")
+print(f"Média: {media}")
 print(f"Alunos com a nota igual ou acima da média: {acima_media}")
 
 #exercício switch
