@@ -35,7 +35,7 @@ match pedido:
         print("Pedido desconhecido")
 
 #exercício 4
-valor = [10, 20, 30]  # Valor a ser analisado
+valor = [10, 20, 30]
 
 match valor:
     case int():
