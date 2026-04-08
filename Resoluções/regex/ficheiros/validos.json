@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Ana Costa",
+    "email": "ana.costa@gmail.com",
+    "nif": "123456789",
+    "telemovel": "912345678",
+    "site": "https://www.anacosta.pt"
+  },
+  {
+    "nome": "Marta Dias",
+    "email": "marta.dias@escola.edu",
+    "nif": "192837465",
+    "telemovel": "210 987 654",
+    "site": "https://marta.edu"
+  }
+]

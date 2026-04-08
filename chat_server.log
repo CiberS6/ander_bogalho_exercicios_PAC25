@@ -1,0 +1,6 @@
+2026-04-02 23:45:14,329 - INFO - Servidor iniciado em 127.0.0.1:12340
+2026-04-02 23:52:10,692 - INFO - Servidor iniciado em 127.0.0.1:12340
+2026-04-02 23:59:22,170 - INFO - Servidor iniciado em 127.0.0.1:12340
+2026-04-02 23:59:49,431 - INFO - Servidor iniciado em 127.0.0.1:12340
+2026-04-03 00:00:26,996 - INFO - Novo cliente conectado: Ander (('127.0.0.1', 53635))
+2026-04-03 00:00:36,226 - WARNING - Tentativa de envio de dados pessoais por Ander: ander2007bogalho@gmail.com | Tipos: ['Email', 'Telefone (PT/Internacional)']

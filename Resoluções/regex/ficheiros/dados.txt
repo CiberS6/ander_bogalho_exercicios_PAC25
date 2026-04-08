@@ -1,0 +1,4 @@
+Nome: Ana Costa, Email: ana.costa@gmail.com, Telemóvel: 912345678
+Nome: João Silva, Email: joao_silva@empresa.pt, Telemóvel: 914-567-123
+Nome: Marta Reis, Email: marta.reis@escola.edu, Telemóvel: 210 987 654
+Nome: Pedro, Email: pedro123@hotmail.com, Telemóvel: 968123456
